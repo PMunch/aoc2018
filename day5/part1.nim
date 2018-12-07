@@ -11,5 +11,4 @@ while pos < polymer.high:
   pos += 1
   if pos < 0: pos = 0
 
-echo polymer
 echo polymer.len
